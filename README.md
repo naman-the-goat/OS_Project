@@ -186,35 +186,6 @@ This project demonstrates parallel computation using multithreading in C++. It f
 
 ---
 
-## 6. EGOS Operating System
-
-### Overview
-
-EGOS is a small educational operating system project that demonstrates the internal working of an operating system. It includes system-level modules, utilities, process handling, and kernel-level functionality.
-
-### Concepts Covered
-
-* Operating system architecture
-* Process management
-* File systems
-* Shell implementation
-* System calls
-* Memory management
-* Kernel programming
-
-### Features
-
-* Educational operating system environment
-* Command-line utilities
-* Process and terminal management
-* System-level debugging support
-* Multiple demo and utility programs
-
-### Technologies Used
-
-* C Programming
-* Operating Systems Design
-* Low-Level System Programming
 
 ---
 
@@ -267,7 +238,6 @@ Operating-Systems-Projects/
 ├── SimpleShell/
 ├── SimpleScheduler/
 ├── SimpleMultithreader/
-└── EGOS-Operating-System/
 ```
 
 ---
