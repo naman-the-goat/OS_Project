@@ -281,13 +281,3 @@ Operating-Systems-Projects/
 * Improve documentation and testing
 
 ---
-
-# Author
-
-Developed as part of Operating Systems coursework and system programming practice projects.
-
----
-
-# License
-
-This project is intended for educational and academic purposes.
